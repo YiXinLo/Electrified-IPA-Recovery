@@ -1,4 +1,3 @@
-# Electrified-IPA-Recovery
 # Techno-Economic Analysis of Electrified Isopropanol Recovery
 
 **Thesis Title**: Techno-Economic Analysis of Decarbonization by Electrification of Recycle Processes for High-Purity Isopropanol  
@@ -11,7 +10,7 @@
 This research investigates the energy-saving and carbon-reduction potential of electrification technologies—namely electric boilers (EB), heat pump-assisted distillation (HPAD), and steam-generating heat pumps (SGHP)—applied to the recovery of electronic-grade isopropanol (IPA).
 
 Scope of the study includes:
-- Azeotropic and extractive distillation simulations (via Aspen Plus)
+- Azeotropic and extractive distillation simulations (via Aspen Plus V12.1)
 - Energy cost and CO₂ emission factor estimations
 - Comparative analysis of SGHP and HPAD systems
 - Evaluation based on Taiwan’s 2023–2024 energy market
