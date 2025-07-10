@@ -17,7 +17,7 @@ Scope of the study includes:
 
 ## 📥 Downloads
 
-- [📘 Master’s Thesis (PDF)](./羅翊心_碩士論文final.pdf)
+- [📘 Master’s Thesis (PDF)](./羅翊心_碩士論文.final.pdf)
 - [📊 Presentation Powerpoint (PPTX)](./口試ppt.pptx)
 
 ## 📌 Citation Recommendation
