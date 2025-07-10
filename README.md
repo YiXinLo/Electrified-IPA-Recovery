@@ -16,8 +16,6 @@ Scope of the study includes:
 - Evaluation based on Taiwan’s 2023–2024 energy market
 
 ## 📥 Downloads
-
-- [📘 Master’s Thesis (PDF)](./碩士論文_羅翊心.final.pdf)
 - [📊 Presentation Powerpoint (PPTX)](./Yi-Hsin-Lo.pptx)
 
 ## 📌 Citation Recommendation
