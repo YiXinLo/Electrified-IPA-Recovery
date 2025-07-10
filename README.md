@@ -18,7 +18,7 @@ Scope of the study includes:
 ## 📥 Downloads
 
 - [📘 Master’s Thesis (PDF)](./碩士論文_羅翊心.final.pdf)
-- [📊 Presentation Powerpoint (PPTX)](./Yi-Hsin Lo.pptx)
+- [📊 Presentation Powerpoint (PPTX)](./Yi-Hsin-Lo.pptx)
 
 ## 📌 Citation Recommendation
 
